@@ -1,0 +1,31 @@
+.homebackground {
+    background-color: #FBF1FF
+}
+
+.edubackground {
+    background-color: #EDF2FF
+}
+
+.expbackground {
+    background-color: #FFF0FB
+}
+
+.skillsbackground {
+    background-color: #EAFFFF
+}
+
+.funbackground {
+    background-color: #FFFEF7
+}
+
+.contactbackground {
+    background-color: #EDFAFF
+}
+
+h3 {
+    color: darkslategray
+}
+
+h1 {
+    font-family:serif
+}
